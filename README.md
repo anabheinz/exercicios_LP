@@ -1,1 +1,1 @@
-# Exercícios - Aula 02 - Variáveis e Constantes
+# Avaliação 1 - Operadores aritméticos
